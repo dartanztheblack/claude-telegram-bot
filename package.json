@@ -1,0 +1,8 @@
+{
+  "name": "claude-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.55.0"
+  }
+}
